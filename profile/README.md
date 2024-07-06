@@ -1,5 +1,34 @@
 # Brender Studio
-Brender Studio is a cross-platform desktop application (macOS, Linux, and Windows) that enables users to connect to AWS services for rendering Blender 3D scenes in the cloud. It is an open-source application, and users are responsible for associated expenses; in other words, there are no intermediaries, and they only pay for what they use.
 
-## How does it work?
-Brender Studio primarily utilizes AWS CLI for resource creation and communication with AWS services through a graphical interface. Internally, Brender Studio utilizes predefined templates (CloudFormation/CDK) with AWS services such as storage, server logic, Docker images, etc. The application primarily facilitates resource creation and deployment without the need for programming.
+## Who We Are
+
+We are a passionate team of developers and 3D enthusiasts who have created Brender Studio, an innovative solution for cloud rendering using AWS.
+
+## What We Do
+
+Brender Studio develops tools that enable 3D artists and animation studios to harness the power of the cloud to accelerate their rendering processes. Brender Studio facilitates the creation of render farms on AWS, allowing Blender users to optimize their workflows and reduce waiting times.
+
+## Our Mission
+
+Our mission is to democratize access to high-power rendering resources, enabling creators worldwide to bring their visions to life without the constraints of local hardware.
+
+## Contribute
+
+We love collaboration! If you want to contribute to our projects, check out our contribution guidelines in each repository.
+
+## Community
+
+Join our growing community of artists and developers:
+
+- [Discord](https://discord.gg/z7sBb4J5r5)
+- [YouTube](https://www.youtube.com/@BrenderStudio)
+
+## Contact
+
+For support, business inquiries, or collaborations, don't hesitate to reach out:
+
+- [Contact](https://brenderstudio.com/contact)
+
+---
+
+Brender Studio - Empowering Creativity Through the Cloud
